@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Reji</h1>
 <h3 align="center">A growing developer</h3>
 
+![deer](https://github.com/user-attachments/assets/85bdeaa1-d1d7-4e55-b475-469557c14a18)
 - 🔭 I’m currently working on [a Financial Tracker app.](https://github.com/DogoeDude/Financial-Tracker.git)
 
-- 🌱 I’m currently learning **Frameworks and languages.**  ![deer](https://github.com/user-attachments/assets/85bdeaa1-d1d7-4e55-b475-469557c14a18)
+- 🌱 I’m currently learning **Frameworks and languages.**  
 
 - 👯 I’m looking to collaborate on **projects.**
 
