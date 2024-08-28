@@ -3,13 +3,12 @@
 
 - 🔭 I’m currently working on [a Financial Tracker app.](https://github.com/DogoeDude/Financial-Tracker.git)
 
-- 🌱 I’m currently learning **Frameworks and languages.**
+- 🌱 I’m currently learning **Frameworks and languages.**  ![deer](https://github.com/user-attachments/assets/85bdeaa1-d1d7-4e55-b475-469557c14a18)
 
 - 👯 I’m looking to collaborate on **projects.**
 
 - 🤝 I’m looking for help with **learning more.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
