@@ -2,6 +2,7 @@
 <h3 align="center">A growing developer</h3>
 
 <center>![deer](https://github.com/user-attachments/assets/85bdeaa1-d1d7-4e55-b475-469557c14a18)</center>
+
 - 🔭 I’m currently working on [a Financial Tracker app.](https://github.com/DogoeDude/Financial-Tracker.git)
 
 - 🌱 I’m currently learning **Frameworks and languages.**  
