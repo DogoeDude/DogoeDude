@@ -7,7 +7,6 @@
 
 ---
 
-- 🔭 I’m currently working on [a Financial Tracker app.](https://github.com/DogoeDude/Financial-Tracker.git)
 - 🌱 I’m currently learning **Frameworks and languages.**  
 - 👯 I’m looking to collaborate on **projects.**
 - 🤝 I’m looking for help with **learning more.**
