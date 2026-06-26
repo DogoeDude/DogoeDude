@@ -26,6 +26,6 @@ Instead of navigating the sidebar, check out some of my live builds directly:
 | **Animeverse** | [View Live 🚀](https://reji-animeverse.vercel.app/) | Dynamic web app dedicated to anime seasons and details. |
 | **Seismic Tracker** | [View Live 🚀](https://seistrack-reji.vercel.app/) | Interactive seismic tracking and mapping platform. |
 | **Verdict** | [View Live 🚀](https://verdict-swart.vercel.app/) | Custom web tool built for analytical decision-making. |
-| **WMJ2** | [View Live 🚀](https://wmj2.vercel.app/) | Job Aggregation platforum using known free api's. |
+| **WMJ2** | [View Live 🚀](https://wmj2.vercel.app/) | Job Aggregation platform using known free api's. |
 
 ---
