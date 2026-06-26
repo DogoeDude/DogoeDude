@@ -51,10 +51,3 @@ Instead of navigating the sidebar, check out some of my live builds directly:
 </p>
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dogoedude&show_icons=true&theme=dark&locale=en&layout=compact" alt="dogoedude" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogoedude&theme=dark" alt="dogoedude" width="51%" />
-</p>
