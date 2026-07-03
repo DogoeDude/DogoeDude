@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reji</h1>
-<h3 align="center">Software Developer & Computer Science Student</h3>
+<h3 align="center">Software Developer & Computer Science Graduate</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/85bdeaa1-d1d7-4e55-b475-469557c14a18" alt="deer" style="border-radius: 50%; width: 140px; height: 140px; border: 2px solid #58a6ff;">
