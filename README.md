@@ -12,6 +12,7 @@
 ---
 
 ### 💫 About Me
+I like pets, may it be arachnids, amphibians or mamals. I also am very familiar with hardware components.
 - 🚀 Specializing in **Full Stack Development, API Integrations, and Algorithm Design**.
 - 🌱 Currently deep-diving into **advanced TypeScript, system architectures, and Cursor workflows**.
 - 🤝 Looking to collaborate on **open-source full-stack tools or unique web applications**.
