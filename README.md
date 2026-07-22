@@ -72,16 +72,20 @@ interests: [ "Exotic Pets 🕷️🐸🐾", "Hardware Tinkering 🔧", "Building
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -89,6 +93,7 @@ interests: [ "Exotic Pets 🕷️🐸🐾", "Hardware Tinkering 🔧", "Building
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
 
@@ -120,8 +125,8 @@ Dynamic web app dedicated to browsing **anime seasons & details** with a sleek, 
 </td>
 <td width="50%" valign="top">
 
-### 🌍 Seismic Tracker
-<a href="https://seistrack-reji.vercel.app/">
+### 🌍 Seismick
+<a href="https://trackdaseis.vercel.app/">
   <img src="https://img.shields.io/badge/LIVE_DEMO-▶-58a6ff?style=for-the-badge&labelColor=0D1117" />
 </a>
 
@@ -135,23 +140,23 @@ Interactive **seismic tracking & mapping** platform with real-time earthquake da
 <td width="50%" valign="top">
 
 ### ⚖️ Verdict
-<a href="https://verdict-swart.vercel.app/">
+<a href="https://reji-ai-reviewer.vercel.app/">
   <img src="https://img.shields.io/badge/LIVE_DEMO-▶-58a6ff?style=for-the-badge&labelColor=0D1117" />
 </a>
 
-Custom web tool built for **analytical decision-making** with structured evaluation workflows.
+AI-powered **code & content reviewer** built for analytical decision-making and structured evaluation.
 
-`Decision Engine` `Analytics` `Vercel`
+`AI` `Analytics` `Vercel`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💼 WMJ2
-<a href="https://wmj2.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-▶-58a6ff?style=for-the-badge&labelColor=0D1117" />
-</a>
+<img src="https://img.shields.io/badge/UNAVAILABLE-⏸-6e7681?style=for-the-badge&labelColor=0D1117" />
 
-**Job aggregation platform** pulling from multiple free APIs into a unified search experience.
+**Job aggregation platform** pulling from multiple APIs into a unified search experience.
+
+> ⚠️ *Currently offline due to API budget limits*
 
 `Job APIs` `Aggregation` `Full Stack`
 
