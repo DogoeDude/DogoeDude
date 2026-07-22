@@ -37,7 +37,7 @@
 
 <br/>
 
-<!-- ── About ──────────────────────────────────────────────────────── -->
+<!-- ── About ────────────────────────────────────────────────────── -->
 
 <table align="center">
 <tr><td>
@@ -46,17 +46,13 @@
  Name       Reggie "Reji" Hermosisima
  Location   Philippines
  Education  BS Computer Science · USTP CDO '26
- Interests  Exotic Pets · Hardware · Building Things
+ Focus      Full Stack · API Integrations · Algorithm Design
+ Exploring  TypeScript · System Architecture · AI Workflows
+ Pets       Arachnids · Amphibians · Mammals (yes, all of them)
 ```
 
 </td></tr>
 </table>
-
-<br/>
-
-> I specialize in **full stack development**, **API integrations**, and **algorithm design**.  
-> Currently exploring advanced **TypeScript**, **system architecture**, and **AI-assisted workflows**.  
-> I keep arachnids, amphibians, and mammals as pets — yes, all of them.
 
 <br/>
 
@@ -156,12 +152,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-<sub>More projects on my portfolio → <a href="https://reji-builds.dev"><strong>reji-builds.dev</strong></a></sub>
-</div>
-
 </details>
 
 <br/>
@@ -179,19 +169,11 @@
   &nbsp;&nbsp;&nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogoeDude&layout=compact&hide_border=true&bg_color=00000000&title_color=e0e0e0&text_color=8b949e&langs_count=6" />
 
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DogoeDude&hide_border=true&background=00000000&stroke=1a1a2e&ring=58a6ff&fire=58a6ff&currStreakLabel=e0e0e0&sideLabels=8b949e&currStreakNum=e0e0e0&sideNums=8b949e&dates=444" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DogoeDude&hide_border=true&bg_color=00000000&color=8b949e&line=58a6ff&point=e0e0e0&area=true&area_color=58a6ff" />
-
 </div>
 
 </details>
 
-<br/><br/>
+<br/>
 
 <!-- ── Footer ──────────────────────────────────────────────────────── -->
 
