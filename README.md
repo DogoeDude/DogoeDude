@@ -4,10 +4,6 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=&fontSize=0" width="100%" />
-
-  <br/>
-
   <img src="https://github.com/user-attachments/assets/85bdeaa1-d1d7-4e55-b475-469557c14a18" alt="deer" width="120" height="120" style="border-radius: 50%;" />
 
   <br/><br/>
