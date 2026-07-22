@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="reji-builds.dev"><img src="https://img.shields.io/badge/Portfolio-reji--builds.dev-blue?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
+  <a href="https://reji-builds.dev"><img src="https://img.shields.io/badge/Portfolio-reji--builds.dev-blue?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
 </p>
 
 ---
