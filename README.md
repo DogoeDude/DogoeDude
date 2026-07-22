@@ -165,9 +165,7 @@
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DogoeDude&show_icons=true&hide_border=true&bg_color=00000000&title_color=e0e0e0&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogoeDude&layout=compact&hide_border=true&bg_color=00000000&title_color=e0e0e0&text_color=8b949e&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DogoeDude&hide_border=true&background=00000000&stroke=1a1a2e&ring=58a6ff&fire=58a6ff&currStreakLabel=e0e0e0&sideLabels=8b949e&currStreakNum=e0e0e0&sideNums=8b949e&dates=444" />
 
 </div>
 
