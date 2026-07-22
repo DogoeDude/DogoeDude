@@ -1,166 +1,156 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          HEADER / HERO SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--  GitHub Profile README — Clean / Fluent Design                    -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-  <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%E3%80%8C+Hey%2C+I'm+Reji+%F0%9F%A6%8C+%E3%80%8D;Full+Stack+Developer+%C2%B7+CS+Graduate+%C2%B7+Builder" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=&fontSize=0" width="100%" />
 
   <br/>
 
-  <!-- Profile Image -->
-  <img src="https://github.com/user-attachments/assets/85bdeaa1-d1d7-4e55-b475-469557c14a18" alt="deer" width="150" height="150" style="border-radius: 50%; border: 3px solid #58a6ff;" />
+  <img src="https://github.com/user-attachments/assets/85bdeaa1-d1d7-4e55-b475-469557c14a18" alt="deer" width="120" height="120" style="border-radius: 50%;" />
 
   <br/><br/>
 
-  <!-- Quick Links / Badges -->
-  <a href="https://reji-builds.dev">
-    <img src="https://img.shields.io/badge/Portfolio-reji--builds.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/reggie-hermosisima406">
-    <img src="https://img.shields.io/badge/LinkedIn-Reggie-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/red.ji.742281/">
-    <img src="https://img.shields.io/badge/Facebook-Reji-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=161B22" alt="Facebook" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=30&duration=3000&pause=2000&color=E0E0E0&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hey+there%2C+I'm+Reji." alt="Typing SVG" />
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=DogoeDude&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+  <samp>Software Developer &nbsp;·&nbsp; CS Graduate &nbsp;·&nbsp; Full Stack Builder</samp>
+
+  <br/><br/>
+
+  <!-- Minimal Link Badges -->
+  <a href="https://reji-builds.dev">
+    <img src="https://img.shields.io/badge/reji--builds.dev-000?style=flat-square&logo=vercel&logoColor=fff" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/reggie-hermosisima406">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/red.ji.742281/">
+    <img src="https://img.shields.io/badge/Facebook-000?style=flat-square&logo=facebook&logoColor=1877F2" />
+  </a>
 
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" />
+<!-- ── About ──────────────────────────────────────────────────────── -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            ABOUT ME                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<table align="center">
+<tr><td>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
-
-```yaml
-name: Reggie "Reji" Hermosisima
-location: Philippines 🇵🇭
-education: BS Computer Science — USTP CDO (2026)
-interests: [ "Exotic Pets 🕷️🐸🐾", "Hardware Tinkering 🔧", "Building Cool Stuff 🚀" ]
+```
+ Name       Reggie "Reji" Hermosisima
+ Location   Philippines
+ Education  BS Computer Science · USTP CDO '26
+ Interests  Exotic Pets · Hardware · Building Things
 ```
 
-- 🏗️ &nbsp;Specializing in **Full Stack Development**, **API Integrations**, and **Algorithm Design**
-- 🧠 &nbsp;Currently deep-diving into **advanced TypeScript**, **system architectures**, and **AI-assisted workflows**
-- 🤝 &nbsp;Looking to collaborate on **open-source full-stack tools** or **unique web applications**
-- 🎯 &nbsp;Fun fact: I keep pets ranging from **arachnids** to **amphibians** to **mammals**
+</td></tr>
+</table>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+> I specialize in **full stack development**, **API integrations**, and **algorithm design**.  
+> Currently exploring advanced **TypeScript**, **system architecture**, and **AI-assisted workflows**.  
+> I keep arachnids, amphibians, and mammals as pets — yes, all of them.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+<br/>
+
+<!-- ── Tech Stack ─────────────────────────────────────────────────── -->
+
+<details open>
+<summary><h3>⠀Tech Stack</h3></summary>
+
+<br/>
 
 <div align="center">
 
-#### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-#### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Tools & Platforms
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+|  | Technologies |
+|:---:|:---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB) ![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00599C) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff) ![ShadCN](https://img.shields.io/badge/ShadCN-000?style=flat-square&logo=shadcnui&logoColor=fff) ![PyQt6](https://img.shields.io/badge/PyQt6-000?style=flat-square&logo=qt&logoColor=41CD52) ![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3&logoColor=1572B6) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff) ![Laravel](https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel&logoColor=FF2D20) ![PostgreSQL](https://img.shields.io/badge/Postgres-000?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1) |
+| **Tools** | ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff) ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visual-studio-code&logoColor=007ACC) ![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=fff) |
 
 </div>
 
+</details>
+
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" />
+<!-- ── Projects ────────────────────────────────────────────────────── -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         FEATURED PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<details open>
+<summary><h3>⠀Featured Projects</h3></summary>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
+<br/>
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🎌 Animeverse
+<td align="center" width="50%">
+<br/>
+<strong>🎌 Animeverse</strong>
+<br/><br/>
+<sub>Dynamic web app for browsing anime seasons & details.</sub>
+<br/><br/>
 <a href="https://reji-animeverse.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-▶-58a6ff?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Open_Live-▶-58a6ff?style=flat-square" />
 </a>
-
-Dynamic web app dedicated to browsing **anime seasons & details** with a sleek, modern interface.
-
-`React` `API Integration` `Vercel`
-
+<br/><br/>
+<sub><code>React</code> · <code>API</code> · <code>Vercel</code></sub>
+<br/><br/>
 </td>
-<td width="50%" valign="top">
 
-### 🌍 Seismick
+<td align="center" width="50%">
+<br/>
+<strong>🌍 Seismick</strong>
+<br/><br/>
+<sub>Interactive seismic tracking & mapping with real-time data.</sub>
+<br/><br/>
 <a href="https://trackdaseis.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-▶-58a6ff?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Open_Live-▶-58a6ff?style=flat-square" />
 </a>
-
-Interactive **seismic tracking & mapping** platform with real-time earthquake data visualization.
-
-`Maps` `Real-time Data` `Vercel`
-
+<br/><br/>
+<sub><code>Maps</code> · <code>Real-time</code> · <code>Vercel</code></sub>
+<br/><br/>
 </td>
+
 </tr>
 <tr>
-<td width="50%" valign="top">
 
-### ⚖️ Verdict
+<td align="center" width="50%">
+<br/>
+<strong>⚖️ Verdict</strong>
+<br/><br/>
+<sub>AI-powered code & content reviewer for structured evaluation.</sub>
+<br/><br/>
 <a href="https://reji-ai-reviewer.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-▶-58a6ff?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Open_Live-▶-58a6ff?style=flat-square" />
 </a>
-
-AI-powered **code & content reviewer** built for analytical decision-making and structured evaluation.
-
-`AI` `Analytics` `Vercel`
-
+<br/><br/>
+<sub><code>AI</code> · <code>Analytics</code> · <code>Vercel</code></sub>
+<br/><br/>
 </td>
-<td width="50%" valign="top">
 
-### 💼 WMJ2
-<img src="https://img.shields.io/badge/UNAVAILABLE-⏸-6e7681?style=for-the-badge&labelColor=0D1117" />
-
-**Job aggregation platform** pulling from multiple APIs into a unified search experience.
-
-> ⚠️ *Currently offline due to API budget limits*
-
-`Job APIs` `Aggregation` `Full Stack`
-
+<td align="center" width="50%">
+<br/>
+<strong>💼 WMJ2</strong>
+<br/><br/>
+<sub>Job aggregation platform pulling from multiple APIs.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Unavailable-⏸-444?style=flat-square" />
+<br/><br/>
+<sub><code>APIs</code> · <code>Aggregation</code> · <code>Full Stack</code></sub>
+<br/><br/>
 </td>
+
 </tr>
 </table>
 
@@ -168,49 +158,45 @@ AI-powered **code & content reviewer** built for analytical decision-making and 
 
 <br/>
 
-> 💡 &nbsp;*Explore more of my work on my portfolio at* **[reji-builds.dev](https://reji-builds.dev)**
+<div align="center">
+<sub>More projects on my portfolio → <a href="https://reji-builds.dev"><strong>reji-builds.dev</strong></a></sub>
+</div>
+
+</details>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" />
+<!-- ── GitHub Stats ────────────────────────────────────────────────── -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           GITHUB STATS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<details open>
+<summary><h3>⠀GitHub Stats</h3></summary>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
+<br/>
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DogoeDude&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Reji's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogoeDude&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DogoeDude&show_icons=true&hide_border=true&bg_color=00000000&title_color=e0e0e0&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogoeDude&layout=compact&hide_border=true&bg_color=00000000&title_color=e0e0e0&text_color=8b949e&langs_count=6" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DogoeDude&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DogoeDude&hide_border=true&background=00000000&stroke=1a1a2e&ring=58a6ff&fire=58a6ff&currStreakLabel=e0e0e0&sideLabels=8b949e&currStreakNum=e0e0e0&sideNums=8b949e&dates=444" />
 
   <br/><br/>
 
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DogoeDude&theme=github-compact&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DogoeDude&hide_border=true&bg_color=00000000&color=8b949e&line=58a6ff&point=e0e0e0&area=true&area_color=58a6ff" />
 
 </div>
 
-<br/>
+</details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" />
+<br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            FOOTER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ── Footer ──────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer" alt="footer" />
-
-  <br/>
-
-  <samp><b>「 Built with ❤️ by Reji 」</b></samp>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%" />
 
 </div>
